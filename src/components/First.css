@@ -767,6 +767,10 @@ background-image: linear-gradient(#9E4159, #933356 95%);
 .window-four-active, .window-four-inactive{
     width: 12px;
 }
+
+.evening-sun-active{
+    right: 100px;
+}
 }
 
 
