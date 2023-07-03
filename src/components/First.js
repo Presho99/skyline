@@ -125,10 +125,8 @@ function First(props) {
         <div
           className={`three-middle-${middleActive ? "active" : "inactive"}`}
         ></div>
-        <div
-          className={`three-bottom-${bottomActive ? "active" : "inactive"}`}
-        >
-           <div className="three-window">
+        <div className={`three-bottom-${bottomActive ? "active" : "inactive"}`}>
+          <div className="three-window">
             <div
               className={`window-three-${windowOne ? "active" : "inactive"}`}
             ></div>
@@ -209,9 +207,7 @@ function First(props) {
         <div
           className={`four-middle-${middleActive ? "active" : "inactive"}`}
         ></div>
-        <div
-          className={`four-bottom-${bottomActive ? "active" : "inactive"}`}
-        >
+        <div className={`four-bottom-${bottomActive ? "active" : "inactive"}`}>
           <div className="four-window">
             <div
               className={`window-four-${windowOne ? "active" : "inactive"}`}
@@ -250,7 +246,6 @@ function First(props) {
               className={`window-four-${windowOne ? "active" : "inactive"}`}
             ></div>
           </div>
-          
         </div>
       </div>
       <div className="five">
@@ -258,9 +253,7 @@ function First(props) {
         <div
           className={`five-middle-${middleActive ? "active" : "inactive"}`}
         ></div>
-        <div
-          className={`five-bottom-${bottomActive ? "active" : "inactive"}`}
-        >
+        <div className={`five-bottom-${bottomActive ? "active" : "inactive"}`}>
           <div className="five-window">
             <div
               className={`window-five-${windowOne ? "active" : "inactive"}`}
@@ -306,9 +299,7 @@ function First(props) {
         <div
           className={`six-middle-${middleActive ? "active" : "inactive"}`}
         ></div>
-        <div
-          className={`six-bottom-${bottomActive ? "active" : "inactive"}`}
-        >
+        <div className={`six-bottom-${bottomActive ? "active" : "inactive"}`}>
           <div className="six-window">
             <div
               className={`window-six-${windowOne ? "active" : "inactive"}`}
@@ -354,9 +345,7 @@ function First(props) {
         <div
           className={`seven-middle-${middleActive ? "active" : "inactive"}`}
         ></div>
-        <div
-          className={`seven-bottom-${bottomActive ? "active" : "inactive"}`}
-        >
+        <div className={`seven-bottom-${bottomActive ? "active" : "inactive"}`}>
           <div className="seven-window">
             <div
               className={`window-seven-${windowOne ? "active" : "inactive"}`}
@@ -402,9 +391,7 @@ function First(props) {
         <div
           className={`eight-middle-${middleActive ? "active" : "inactive"}`}
         ></div>
-        <div
-          className={`eight-bottom-${bottomActive ? "active" : "inactive"}`}
-        >
+        <div className={`eight-bottom-${bottomActive ? "active" : "inactive"}`}>
           <div className="eight-window">
             <div
               className={`window-eight-${windowOne ? "active" : "inactive"}`}
@@ -450,9 +437,7 @@ function First(props) {
         <div
           className={`nine-middle-${middleActive ? "active" : "inactive"}`}
         ></div>
-        <div
-          className={`nine-bottom-${bottomActive ? "active" : "inactive"}`}
-        >
+        <div className={`nine-bottom-${bottomActive ? "active" : "inactive"}`}>
           <div className="nine-window">
             <div
               className={`window-nine-${windowOne ? "active" : "inactive"}`}
